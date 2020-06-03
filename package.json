@@ -43,8 +43,11 @@
   "dependencies": {
     "algorithmia": "^0.3.10",
     "axios": "^0.19.2",
+    "codemirror": "^5.54.0",
     "compression": "^1.7.3",
     "connect-session-sequelize": "^6.1.1",
+    "create-react-class": "^15.6.3",
+    "css-loader": "^3.5.3",
     "express": "^4.16.4",
     "express-session": "^1.17.1",
     "history": "^4.10.1",
@@ -56,6 +59,8 @@
     "prettier": "^2.0.5",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
+    "react-codemirror": "^1.0.0",
+    "react-codemirror2": "^7.2.0",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
@@ -63,7 +68,8 @@
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "sequelize": "^5.21.11",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.3.0",
+    "style-loader": "^1.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
